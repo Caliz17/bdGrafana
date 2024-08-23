@@ -1,4 +1,3 @@
-## ¿Qué es Grafana?
+# Grafana
 
-**Grafana** es una plataforma de código abierto para la visualización y monitoreo de datos en tiempo real. Permite crear paneles interactivos y gráficos personalizados a partir de diversas fuentes de datos, como bases de datos, APIs, y sistemas de monitoreo. Es una herramienta potente para analizar el rendimiento de sistemas y aplicaciones.
-
+**Grafana** es una plataforma de código abierto diseñada para la visualización y monitoreo de datos en tiempo real. Con Grafana, puedes crear paneles interactivos y gráficos personalizados utilizando diversas fuentes de datos, como bases de datos, APIs, y sistemas de monitoreo. Es una herramienta esencial para el análisis del rendimiento de sistemas y aplicaciones.
